@@ -1,0 +1,77 @@
+.gallery img{
+    width: 100%;
+}
+
+p{
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+}
+
+h1{
+     font font-family:comic sans,fantasy;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    font-style: italic
+}
+
+h2{
+    font font-family:Impact,fantasy;
+    text-align: center;
+    font-size: 80px;
+    color: white;
+    font-style: italic
+}
+
+
+
+h3{
+    font font-family:Helvetica,fantasy;
+    text-align: center;
+    font-size: 25px;
+    color: navy;
+    font-style: italic
+}
+}
+H4{
+    font font-family:Impact,fantasy;
+    text-align: center;
+    font-size: 25px;
+    color: darkslategrey;
+    font-style: italic
+}
+
+#menu {
+    width: 100%;
+    height: 40px;
+    background-color: navy;
+    padding-top: 12px
+}
+
+#menu a{
+    color:white;
+    font-family: Helvetica,sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: purple;
+}
+
+div.scroll-container{
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+
+div.scroll-container img{
+    padding: 10px;
+}
+
